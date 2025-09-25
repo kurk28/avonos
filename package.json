@@ -1,0 +1,17 @@
+{
+  "name": "avonos",
+  "version": "0.0.1",
+  "description": "\"Questions from interview\"",
+  "license": "MIT",
+  "author": "Ilia Dk",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest",
+    "format": "npx prettier . --write"
+  },
+  "devDependencies": {
+    "prettier": "3.6.2",
+    "vitest": "^3.2.4"
+  }
+}
